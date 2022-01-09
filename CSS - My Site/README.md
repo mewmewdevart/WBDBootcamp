@@ -28,7 +28,7 @@
 
 
 [![Github](
-https://github.com/mewmewdevart/WBDBootcamp/blob/3df39ea4796c9406e7fa94f943a28d88225cd383/CSS%20-%20My%20Site/printSite.jpeg)](https://github.com/mewmewdevart/CSSDrawings/tree/main/01%20-%20CuteEgg)
+https://github.com/mewmewdevart/WBDBootcamp/blob/3df39ea4796c9406e7fa94f943a28d88225cd383/CSS%20-%20My%20Site/printSite.jpeg)]
 
 
 <h4 align="center"><a href="https://github.com/mewmewdevart/WBDBootcamp/tree/main/CSS%20-%20My%20Site" target="_blank">See the code</a></h4>
