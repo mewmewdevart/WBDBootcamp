@@ -1,5 +1,5 @@
 <h2 align="center">
-   ⚙️ <br> Web Development Bootcamp/ 2022 <br> CSS WebSite - Basic/Intermediate <br>
+   👩🏿‍💻 <br> Web Development Bootcamp/ 2022 <br> CSS WebSite - Basic/Intermediate <br>
 </h2>
 
 <h4 align="center">
@@ -10,7 +10,7 @@
 - HTML5
 - CSS3
 
-#### 📺 TOOLS AND Others:
+#### 📺 TOOLS AND OTHERS:
 - ATOM (Engine)
 - Google Fonts (Fonts free)
 - Favicon (Icon Web)
@@ -18,17 +18,14 @@
 - Mdn Web Docs (Documentation)
 - Lorem Ipsum (for Text)
 
-
-<h4 align="center"><a href="#" target="_blank">See the project (⚠️ Coming soon)</a></h4>
-
 ### 👩🏿‍💻 RESULT
 ---
 
 <h4 align="center"> CSS Portfolio </h4>
 
 
-[![Github](
-https://github.com/mewmewdevart/WBDBootcamp/blob/3df39ea4796c9406e7fa94f943a28d88225cd383/CSS%20-%20My%20Site/printSite.jpeg)]
+![Github](
+https://github.com/mewmewdevart/WBDBootcamp/blob/3df39ea4796c9406e7fa94f943a28d88225cd383/CSS%20-%20My%20Site/printSite.jpeg)
 
 
 <h4 align="center"><a href="https://github.com/mewmewdevart/WBDBootcamp/tree/main/CSS%20-%20My%20Site" target="_blank">See the code</a></h4>
